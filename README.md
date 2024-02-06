@@ -3,6 +3,8 @@
 Finance professional and entrepreneur passionate about tech, I have coded my way with versatility and adaptability.
 
 Ready to compile new challenges, I'm getting ready to dive into the next [42 Nice](https://42nice.fr/) piscine 💦 👨‍💻 🚀
+
+![tryhackme stats](https://raw.githubusercontent.com/alexmeurant/alexmeurant/master/assets/thm_propic.png)
 <!--
 **alexmeurant/alexmeurant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
