@@ -1,6 +1,6 @@
 ![42born2code_cover](assets/42born2code_cover.jpg)
 
-### Hi there 👋
+## Hi there 👋
 
 Finance professional and entrepreneur passionate about tech, I have coded my way with versatility and adaptability.
 
@@ -8,6 +8,11 @@ Ready to compile new challenges, I'm getting ready to dive into the next [42 Nic
 
 ***
 
+## Get in Touch
+I'm always open for work/project opportunity, feel free to reach me out via:
+- Email : [alexandremeurant@hotmail.fr](mailto:alexandremeurant@hotmail.fr)
+- LinkedIn : [Alexandre_Meurant](https://www.linkedin.com/in/alexandre-meurant/)
+- THM : [Alexandre_Meurant](https://tryhackme.com/p/alexmeurant)
 
 <!--
 ![alexmeurant's tryhackme stats](https://raw.githubusercontent.com/alexmeurant/alexmeurant/master/assets/thm_propic.png)
