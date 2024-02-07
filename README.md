@@ -1,3 +1,5 @@
+![42born2code_cover](assets/42born2code_cover.jpg)
+
 ### Hi there 👋
 
 Finance professional and entrepreneur passionate about tech, I have coded my way with versatility and adaptability.
