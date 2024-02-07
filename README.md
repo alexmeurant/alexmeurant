@@ -13,6 +13,7 @@ I'm always open for work/project opportunity, feel free to reach me out via:
 - Email : [alexandremeurant@hotmail.fr](mailto:alexandremeurant@hotmail.fr)
 - LinkedIn : [Alexandre_Meurant](https://www.linkedin.com/in/alexandre-meurant/)
 - THM : [Alexandre_Meurant](https://tryhackme.com/p/alexmeurant)
+- Cybrary : [Alexandre_Meurant](https://app.cybrary.it/profile/alexmeurant)
 
 <!--
 ![alexmeurant's tryhackme stats](https://raw.githubusercontent.com/alexmeurant/alexmeurant/master/assets/thm_propic.png)
