@@ -6,8 +6,10 @@ Ready to compile new challenges, I'm getting ready to dive into the next [42 Nic
 
 ***
 
-![alexmeurant's tryhackme stats](https://raw.githubusercontent.com/alexmeurant/alexmeurant/master/assets/thm_propic.png)
+
 <!--
+![alexmeurant's tryhackme stats](https://raw.githubusercontent.com/alexmeurant/alexmeurant/master/assets/thm_propic.png)
+
 **alexmeurant/alexmeurant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
