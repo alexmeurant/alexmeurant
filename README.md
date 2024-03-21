@@ -6,7 +6,7 @@ Finance professional and entrepreneur passionate about tech, I have coded my way
 
 In 2023, I had the desire (a little crazy? 🤪) to embark on a professional reorientation and not just any... The tech world and particularly IT development.
 
-After 1 month of intense and exceptional experience during the « piscine », I'm starting the Common Core of [42 Nice](https://42nice.fr/) 👨🏻‍💻 🚀
+After 1 month of intense and exceptional experience during the « piscine », I'm starting the Common Core at [42 Nice](https://42nice.fr/) 👨🏻‍💻 🚀
 
 ***
 
